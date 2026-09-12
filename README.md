@@ -1,16 +1,10 @@
 <h1 align="center">Welcome to my GitHub 🚀 — I'm Rajula Anusree</h1>
 
-<h3 align="center">AI/ML Developer | Data Enthusiast | Computer Science Undergraduate</h3>
-
-<p align="center">
-  <code>B.Tech CSE @ GITAM &nbsp;|&nbsp; ML Projects &nbsp;|&nbsp; NCC Lance Corporal</code>
-</p>
-
 ---
 
 ### 🍭 About Me
 
-- 🎓 B.Tech in Computer Science Engineering @ GITAM University, Bengaluru (Expected 2027) | CGPA: 8.36/10
+- 🎓 B.Tech in Computer Science Engineering @ GITAM University, Bengaluru (Expected 2027)
 - 🤖 Working on projects involving **Machine Learning, Generative AI, and Data Analysis**
 - 🐍 Comfortable with Python, SQL, and libraries like Pandas, NumPy, and Matplotlib
 - 🧠 Currently exploring: LLM-based apps, churn prediction models, and real-time data pipelines
@@ -20,16 +14,19 @@
 ### 🚀 Projects & Research
 
 **🤝 SupportAI – AI Helpdesk Agent**
-Python-based AI helpdesk agent that answers user queries using an FAQ knowledge base and an LLM, with a hybrid TF-IDF + keyword matching system.
-`Tech: Python, LLM, TF-IDF`
+
+> Python-based AI helpdesk agent that answers user queries using an FAQ knowledge base and an LLM, with a hybrid TF-IDF + keyword matching system.
+> **Tech:** Python, LLM, TF-IDF
 
 **📉 ChurnGuard – Customer Churn Prediction**
-End-to-end churn prediction pipeline — cleaned messy telecom data, handled class imbalance, compared ML models, and deployed a real-time Streamlit app.
-`Tech: Python, Scikit-learn, Streamlit`
+
+> End-to-end churn prediction pipeline — cleaned messy telecom data, handled class imbalance, compared ML models, and deployed a real-time Streamlit app.
+> **Tech:** Python, Scikit-learn, Streamlit
 
 **📊 TrendPulse – Data Pipeline for Trend Analysis**
-Python pipeline that fetches, cleans, analyzes, and visualizes real-time trending stories from the Hacker News API.
-`Tech: Python, Pandas, NumPy, Matplotlib`
+
+> Python pipeline that fetches, cleans, analyzes, and visualizes real-time trending stories from the Hacker News API.
+> **Tech:** Python, Pandas, NumPy, Matplotlib
 
 ---
 
@@ -71,5 +68,6 @@ Python pipeline that fetches, cleans, analyzes, and visualizes real-time trendin
 
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajula-anusree-bb5678393)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajulaanusree@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/rajula-anusree-bb5678393)
+
+📧 [Gmail](mailto:rajulaanusree@gmail.com)
