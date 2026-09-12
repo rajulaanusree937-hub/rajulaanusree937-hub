@@ -71,3 +71,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/rajula-anusree-bb5678393)
 
 📧 [Gmail](mailto:rajulaanusree@gmail.com)
+
+---
+
+🙏 Thank You!
+<p align="center"> ✨ Let's build something impactful together. <br/> You bring the vision — I'll bring the code ⚡ </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" width="100%"/>
