@@ -75,4 +75,4 @@
 ---
 
 🙏 Thank You!
-<p align="center"> ✨ Let's build something impactful together. <br/> You bring the vision — I'll bring the code ⚡ </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" width="100%"/>
+<p align="center"> <img src="https://github.com/cuuupid/undraw-illustrations/raw/master/svg/coding_6mjf.svg" width="400"/> </p> <p align="center"> ✨ Let's build something impactful together. <br/> You bring the vision — I'll bring the code ⚡ </p>
