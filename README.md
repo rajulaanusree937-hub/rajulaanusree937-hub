@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Projects & Research
+### 🚀 Projects
 
 **🤝 SupportAI – AI Helpdesk Agent**
 
