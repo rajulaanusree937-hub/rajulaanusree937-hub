@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub 🚀 — I'm Rajula Anusree</h1>
+<h1 align="center">Hello,I'm Rajula Anusree👋</h1>
 
 ---
 
@@ -75,4 +75,4 @@
 ---
 
 🙏 Thank You!
-<p align="center"> <img src="https://github.com/cuuupid/undraw-illustrations/raw/master/svg/coding_6mjf.svg" width="400"/> </p> <p align="center"> ✨ Let's build something impactful together. <br/> You bring the vision — I'll bring the code ⚡ </p>
+<p align="center"> <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/working_late_pukg.svg" width="400"/> </p> <p align="center"> 🌱 Learning by building — one project, one bug, one breakthrough at a time. </p>
